@@ -9,7 +9,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>io.github.embedded-middleware</groupId>
     <artifactId>elasticsearch-client-common</artifactId>
 
     <dependencies>

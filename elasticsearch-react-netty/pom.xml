@@ -13,7 +13,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.github.embedded-middleware</groupId>
+            <groupId>io.github.protocol-laboratory</groupId>
             <artifactId>elasticsearch-client-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
