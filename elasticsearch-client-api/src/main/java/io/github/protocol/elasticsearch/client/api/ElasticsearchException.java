@@ -1,4 +1,4 @@
-package io.github.protocol.elasticsearch.client.common;
+package io.github.protocol.elasticsearch.client.api;
 
 public class ElasticsearchException extends Exception {
     private static final int DEFAULT_STATUS_CODE = 500;

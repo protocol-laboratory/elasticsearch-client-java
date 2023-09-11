@@ -1,4 +1,4 @@
-package io.github.protocol.elasticsearch.client.common;
+package io.github.protocol.elasticsearch.client.api;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;

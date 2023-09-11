@@ -1,7 +1,7 @@
 package io.github.protocol.elasticsearch.client.jdk;
 
 import io.github.embedded.elasticsearch.core.EmbeddedElasticsearchServer;
-import io.github.protocol.elasticsearch.client.common.MainResp;
+import io.github.protocol.elasticsearch.client.api.MainResp;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;

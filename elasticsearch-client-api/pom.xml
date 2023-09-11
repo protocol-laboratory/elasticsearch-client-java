@@ -9,7 +9,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>elasticsearch-client-common</artifactId>
+    <artifactId>elasticsearch-client-api</artifactId>
 
     <dependencies>
         <dependency>

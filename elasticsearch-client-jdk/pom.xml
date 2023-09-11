@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>io.github.protocol-laboratory</groupId>
-            <artifactId>elasticsearch-client-common</artifactId>
+            <artifactId>elasticsearch-client-api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>

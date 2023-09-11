@@ -1,4 +1,4 @@
-package io.github.protocol.elasticsearch.client.common;
+package io.github.protocol.elasticsearch.client.api;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
