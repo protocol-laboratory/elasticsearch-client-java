@@ -1,8 +1,8 @@
 package io.github.protocol.elasticsearch.client.reactor;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import io.github.protocol.elasticsearch.client.common.ElasticsearchException;
-import io.github.protocol.elasticsearch.client.common.JacksonService;
+import io.github.protocol.elasticsearch.client.api.ElasticsearchException;
+import io.github.protocol.elasticsearch.client.api.JacksonService;
 import io.netty.handler.codec.http.HttpHeaderNames;
 import io.netty.handler.codec.http.HttpHeaderValues;
 import io.netty.handler.ssl.SslContext;

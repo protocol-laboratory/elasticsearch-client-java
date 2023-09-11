@@ -1,8 +1,8 @@
 package io.github.protocol.elasticsearch.client.reactor;
 
-import io.github.protocol.elasticsearch.client.common.ElasticsearchException;
-import io.github.protocol.elasticsearch.client.common.MainResp;
-import io.github.protocol.elasticsearch.client.common.JacksonService;
+import io.github.protocol.elasticsearch.client.api.ElasticsearchException;
+import io.github.protocol.elasticsearch.client.api.MainResp;
+import io.github.protocol.elasticsearch.client.api.JacksonService;
 import reactor.core.publisher.Mono;
 import reactor.core.scheduler.Schedulers;
 

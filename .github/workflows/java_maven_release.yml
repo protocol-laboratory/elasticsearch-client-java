@@ -1,4 +1,4 @@
-name: Release
+name: java maven release
 
 on:
   push:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  publish:
+  java_maven_release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

@@ -9,7 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>elasticsearch-client-common</module>
+        <module>elasticsearch-client-api</module>
         <module>elasticsearch-client-jdk</module>
         <module>elasticsearch-client-reactor</module>
     </modules>
