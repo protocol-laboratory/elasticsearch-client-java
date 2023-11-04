@@ -11,7 +11,7 @@ public class Configuration {
 
     private int port;
 
-    public boolean useSsl = false;
+    public boolean tlsEnable = false;
 
     public String keyStorePath;
 

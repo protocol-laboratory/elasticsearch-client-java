@@ -19,7 +19,7 @@ public class ReactHttpClient {
     public ReactHttpClient(Configuration conf) {
         HttpClient client = HttpClient.create();
 
-        if (conf.isUseSsl()) {
+        if (conf.isTlsEnable()) {
             client = client.secure(spec -> {
                 SslContext context = SslContextUtil.buildFromJks(
                         conf.keyStorePath, conf.keyStorePassword,
